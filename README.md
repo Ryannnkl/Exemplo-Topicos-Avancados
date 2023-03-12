@@ -25,10 +25,13 @@
 
 ## Exemplo prático
 
- - copiar link e colocar no Insomnia 
+ - link
+ 
+ copiar o link de onde estiver rodando e colocar no insomnia para testar
  
  ## comandos
  
+ - npm i -g @nestjs/cli
  - nest -h
  - nest g res cat
  
