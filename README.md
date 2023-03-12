@@ -37,7 +37,7 @@
  
  ## configurar PostgreSQL
  
- - configurar o docker-compose.xml
+ - configurar o docker-compose.yml
  
  - docker compose up -d
  
