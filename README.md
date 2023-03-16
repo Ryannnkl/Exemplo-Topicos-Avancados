@@ -29,13 +29,10 @@
  
  - npm i -g @nestjs/cli
  - nest -h
- - nest g res cat
- 
+ -  
  ## configurar PostgreSQL
  
  - configurar o docker-compose.yml
  
  - docker compose up -d
- 
- - npm install --save @nestjs/typeorm typeorm pg
  
