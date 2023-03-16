@@ -25,10 +25,6 @@
 
 ## Exemplo prático
 
- - link
- 
- copiar o link de onde estiver rodando e colocar no insomnia para testar
- 
  ## comandos
  
  - npm i -g @nestjs/cli
